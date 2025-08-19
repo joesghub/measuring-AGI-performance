@@ -1,7 +1,4 @@
 # How do we determine the intelligence of an AGI?
-An overview of the ARC Prize's Artificial General Intelligence Benchmark and breakdown of their scoring mechanics
-
-
 
 ## Breaking News! Grok 4 beats GPT-5
 
