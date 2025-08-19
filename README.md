@@ -25,7 +25,7 @@ A principle underlying ARC-AGI's design is the need to create a **fair and meani
 
 To achieve this, ARC-AGI focuses on **fluid intelligence** (the ability to reason, solve novel problems, and adapt to new situations) rather than **crystallized intelligence**, which relies on accumulated knowledge and skills. [3]
 
-This distinction between intelligence's highlights the different ways humans think. Althought they are both valuable in our daily lives, its more valuable that we have fluidly intelligent AGI. 
+This distinction between intelligence's highlights the different ways humans think. Although they are both valuable in our daily lives, its more valuable that we have fluidly intelligent AGI. 
 
 
 
