@@ -119,13 +119,7 @@ That is the essence of intelligence and why benchmarks like ARC-AGI remind us th
 
 ### 🤝🏾  Connect with Me
 
-<p align="left">
-<a href="https://www.kuralabs.org/"&gt;&lt;img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/joeslnkdin/"&gt;&lt;img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joe%20Reynolds-orange?style=flat-square&logo=linkedin"></a>
-<a href="joekuralabs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joekuralabs@gmail.com-orange?style=flat-square&logo=gmail"></a>
-</p>
-
-
+[Joe's LinkedIn](https://www.linkedin.com/in/joeslnkdin/)
 
 [1]: https://aibreakfast.beehiiv.com/p/gpt-5-released-f255?_bhlid=38b2364114aa3f9d07c0f213eb2b9704f71e8e29&utm_campaign=gpt-5-released&utm_medium=newsletter&utm_source=aibreakfast.beehiiv.com 
 [2]: https://arcprize.org/about
