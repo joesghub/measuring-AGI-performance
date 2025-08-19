@@ -78,7 +78,7 @@ This sets the baseline at 100% for humans!
 
 Similarly, the AIs were allowed up to two attempts at each task. They also needed to have the exact output, to the pixel. 
 
-From 2019 - 2024 most AI's scored in the 20% - 35% range ont he ARC-AGI 1. Until late last year when OpenAI's o3-preview scored an 87%!
+From 2019 - 2024 most AI's scored in the 20% - 35% range on the ARC-AGI 1. Until late last year when OpenAI's o3-preview scored an 87%!
 
 However, the ARC prize recently released the ARC-AGI 2 Benchmark and it has reduced AI success rates back into the single digits range.
 
